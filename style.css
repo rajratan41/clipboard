@@ -17,6 +17,7 @@ body {
 
 #myInput {
   width: 300px;
+  height: 25px;
   padding: 10px 20px;
   border-radius: 5px;
   border: none;
@@ -24,7 +25,7 @@ body {
 
 button {
   padding: 11px 20px;
-  margin-top: 10px;
+  margin-top: 25px;
   border: none;
   background-color: #0063bf;
   color: #fff;
