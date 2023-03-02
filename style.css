@@ -1,0 +1,32 @@
+body {
+  background-color: #03203c;
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.container h1 {
+  color: #ffffff;
+}
+
+#myInput {
+  width: 300px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  padding: 11px 20px;
+  margin-top: 10px;
+  border: none;
+  background-color: #0063bf;
+  color: #fff;
+  border-radius: 5px;
+}
